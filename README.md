@@ -32,3 +32,10 @@ Extracts multi-scale features using depthwise convolutions.
 
 ### Optical Flow Estimation
 Estimates optical flow between input frames and warps frames accordingly.
+
+## Colab Link:
+https://colab.research.google.com/drive/1my3ju-hEG_yfeLsISJKtyE05_EXlFcvk?usp=sharing
+
+## Dataset:
+It is provided as a zip.
+Alternatively, you can decompose a video into individual frames, categorize them into three distinct groups, preprocess the frames by converting them into normalized vectors, and store these vectors using frame splitter mentioned in the notebook.
